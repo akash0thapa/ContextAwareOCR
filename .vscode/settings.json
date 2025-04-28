@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./context_aware_ocr/llm_classifier"
+    ]
+}
